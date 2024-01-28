@@ -1,4 +1,4 @@
-### Hi there 👋
+###  👋
 
 I'm Aron, a software engineer and a senior computer science studnet from Charlotte, North Carolina.
 
