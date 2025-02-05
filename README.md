@@ -12,8 +12,8 @@ Check out my coding portfolio: https://aronherba.netlify.app/
 I'm also an educational coding content creator, sharing my coding passion, and any advice on:
 https://medium.com/@aronlh01
 
-🌐 Connect with me:
-LinkedIn
+🌐 Connect with me
+LinkedIn: https://www.linkedin.com/in/aronherba/
 
 💻 Tech Stack:
 Languages: Python Java SQL HTML5 CSS JavaScript C VHDL
