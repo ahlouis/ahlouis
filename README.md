@@ -1,5 +1,6 @@
 
 Hi 👋 I'm Aron Herba
+
 💫 About Me:
 I am a recent computer science graduate, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
