@@ -10,7 +10,7 @@ I am a recent computer science graduate, passionate about exploring the realms o
 Check out my coding portfolio: https://aronherba.netlify.app/
 
 🎓 About Me
-I'm also an educational coding content creator, sharing my coding passion, and any advice on:
+I'm also a writer and write about coding, tech, science and in general things I find interesting: 
 https://medium.com/@aronlh01
 
 🌐 Connect with me on
